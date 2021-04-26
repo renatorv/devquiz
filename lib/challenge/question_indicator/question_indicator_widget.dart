@@ -1,5 +1,8 @@
-import 'package:devquiz/core/core.dart';
+
+
 import 'package:flutter/material.dart';
+
+import '../../core/core.dart';
 
 class QuestionIndicatorWidget extends StatelessWidget {
   const QuestionIndicatorWidget({Key? key}) : super(key: key);
